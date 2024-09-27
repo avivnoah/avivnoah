@@ -1,4 +1,4 @@
-![1727238311341](https://github.com/user-attachments/assets/7f8e1e8d-577e-44c9-b69b-b81b87c4947e)<h1 align="center">Hi 👋, I'm Aviv Noah</h1>
+<h1 align="center">Hi 👋, I'm Aviv Noah</h1>
 <h3 align="center">I'm currently a 3rd-year Bioinformatics student at Tel Aviv University, actively seeking internship opportunities or student job positions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avivnoah&label=Profile%20views&color=0e75b6&style=flat" alt="avivnoah" /> </p>
